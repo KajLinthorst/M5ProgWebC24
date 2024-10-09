@@ -1,0 +1,10 @@
+Agrocare Kwekerij
+Wagenpad 11
+1775 RJ Middenmeer
+
+Variabelen:
+Straatnaam {varchar}
+Straatnummer {int}
+Postcode {int}
+Postcodeletters {varchar}
+Stad/Dorp {varchar}
